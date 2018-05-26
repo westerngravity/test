@@ -1,5 +1,5 @@
 # test
 
-There are two Scene “Test & Scene2”
+There are two Scenes “Test & Scene2”, 
 Load “Test” scene first 
 then Scene2  
