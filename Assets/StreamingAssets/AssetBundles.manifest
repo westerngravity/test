@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1038138052
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: refimage
+      Dependencies: {}
